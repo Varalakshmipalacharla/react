@@ -20,7 +20,7 @@ const JsonData = () => {
                     <button className="user">
                         <p>
                             <b>Name:{item.name}</b><br />
-                            UserName:{item.username}<br />
+                            User Name:{item.username}<br />
                             Email:{item.email}<br />
                             Street:{item.address.street}<br />
                             City{item.address.city}<br />
